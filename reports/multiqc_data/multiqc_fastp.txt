@@ -1,0 +1,3 @@
+Sample	command
+normal	fastp --in1 ../data/Exome_Norm/2891351068_1.fastq --in2 ../data/Exome_Norm/2891351068_2.fastq --out1 processed_fqs/normal_fastped_1.fastq --out2 processed_fqs/normal_fastped_2.fastq --json json_fastp/normal.fastp.json --html normal.fastp.html 
+tumor	fastp --in1 ../data/Exome_Tumor/2891351066_1.fastq --in2 ../data/Exome_Tumor/2891351066_2.fastq --out1 processed_fqs/tumor_fastped_1.fastq --out2 processed_fqs/tumor_fastped_2.fastq --json json_fastp/tumor.fastp.json --html tumor.fastp.html 

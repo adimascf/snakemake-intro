@@ -1,0 +1,3 @@
+Sample	fastp_mqc-generalstats-fastp-pct_duplication	fastp_mqc-generalstats-fastp-after_filtering_q30_rate	fastp_mqc-generalstats-fastp-after_filtering_q30_bases	fastp_mqc-generalstats-fastp-filtering_result_passed_filter_reads	fastp_mqc-generalstats-fastp-after_filtering_gc_content	fastp_mqc-generalstats-fastp-pct_surviving	fastp_mqc-generalstats-fastp-pct_adapter
+normal	7.7032799999999995	0.983975	717080579.0	7298420.0	0.503652	95.73021634728262	0.8057769559228254
+tumor	7.50695	0.982562	821992465.0	8379042.0	0.514979	95.12325205230879	0.8321625099788661

@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	normal	/mnt/e/pandu-files/ugm-training/work/json_fastp/normal.fastp.json
+fastp	all_sections	tumor	/mnt/e/pandu-files/ugm-training/work/json_fastp/tumor.fastp.json

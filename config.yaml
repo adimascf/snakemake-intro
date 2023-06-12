@@ -1,0 +1,12 @@
+input:
+  normal_read1: "../data/Exome_Norm/2891351068_1.fastq"
+  normal_read2: "../data/Exome_Norm/2891351068_2.fastq"
+  tumor_read1: "../data/Exome_Tumor/2891351066_1.fastq"
+  tumor_read2: "../data/Exome_Tumor/2891351066_2.fastq"
+
+output:
+  json_file_normal: "json_fastp/normal.fastp.json"
+  json_file_tumor: "json_fastp/tumor.fastp.json"
+
+
+
